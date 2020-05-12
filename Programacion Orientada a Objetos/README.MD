@@ -12,3 +12,5 @@ objeto['propiedad']
 objeto.propiedad
 ```
 <p>vamos a ver esto de manera practica para entenderlo meojor.. </p>
+<img src='https://i.imgur.com/yb7s66g.png'>
+
