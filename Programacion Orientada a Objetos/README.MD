@@ -12,5 +12,6 @@ print('hola')
 <p>vamos a ver esto de manera practica para entenderlo meojor.. </p>
 
 ```python
-print('hola mundo')
+objeto['propiedad']
+objeto.propiedad
 ```
