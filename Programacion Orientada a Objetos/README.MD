@@ -17,4 +17,5 @@ objeto.propiedad
 llamado kraken el cual es un mounstruo marino, este objeto contendra propiedades como nombre, tipo,
 vida y resistencia y metodos como gruñir(), un metodo es una propiedad que contiene como valor una funcion
 para crear dicho objeto escribamos el siguiente codigo:</p>
+<img src='https://i.imgur.com/eTdtwTP.png'>
 
