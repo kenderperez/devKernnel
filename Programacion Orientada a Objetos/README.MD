@@ -12,7 +12,7 @@ objeto['propiedad']
 objeto.propiedad
 ```
 <p>vamos a ver esto de manera practica para entenderlo meojor.. </p>
-<img width='500px' src='https://i.imgur.com/yb7s66g.png'>
+<img width='500px' align='center' src='https://i.imgur.com/yb7s66g.png'>
 <p>supongamos que tenemos un objeto
 llamado kraken el cual es un mounstruo marino, este objeto contendra propiedades como nombre, tipo,
 vida y resistencia y metodos como gruñir(), un metodo es una propiedad que contiene como valor una funcion
