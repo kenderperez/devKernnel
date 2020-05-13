@@ -40,7 +40,7 @@ propiedades y metodos contendra un objeto .</p>
 que tendran mas o menos la misma estructura. en el siguiente ejemplo crearemos una plantilla para crear
 espadas las cuales contendran propiedades tales como nombre, rareza, daño, filo y un metodo
 llamado atacar() el cual restara vida a un objetivo dado:</p>
-<p align="center"><img width='600px' src='https://i.imgur.com/J08rrDa.png'></p>
+<p align="center"><img width='600px' src='https://i.imgur.com/obI3vrP.png'></p>
 
 
 
