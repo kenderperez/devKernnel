@@ -53,9 +53,11 @@ class Espada:
         self.filo = filo
         
     def atacar(self, objetivo):
-        if self.filo > 0:
+        if self.filo > 0 and objetivo['vida'] > 0:
             objetivo['vida'] = objetivo['vida'] - self.daño + objetivo['resistencia']
             self.filo = self.filo - 2
+        elif objetivo['vida'] <= 0:
+            print('El '+ objetivo['nombre'] + ' a muerto!')
         else:
             print('La espada se a quedado sin filo!!')
 ```
