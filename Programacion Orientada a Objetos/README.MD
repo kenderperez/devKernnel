@@ -17,7 +17,7 @@ podria ser el filo el nombre el daño o el color, Además tiene una serie de fun
 <br>
 <p>supongamos que tenemos un objeto
 llamado kraken el cual es un mounstruo marino, este objeto contendra propiedades como nombre, tipo,
-vida y resistencia y metodos como gruñir(), un metodo es una propiedad que contiene como valor una funcion
+vida y resistencia.
 para crear dicho objeto escribamos el siguiente codigo:</p>
 <p align="center"><img width='600px' src='https://i.imgur.com/eTdtwTP.png'></p>
 <h5><i>como vimos en la imagen anterior para acceder a una propiedad de un objeto se hace mediante el nombre del objeto seguido por el nombre de la propiedad entre corchetes [] ejemplo: Kraken['vida'] esto retornara 12</i></h5>
@@ -28,9 +28,7 @@ Kraken = {
           'nombre' = 'Kraken',
           'tipo' = 'marino',
           'vida' = 12,
-          'resistencia' = 2.
-          'gruñir' = def():
-                          print('grrrr!')
+          'resistencia' = 2
          }
 ```
 
