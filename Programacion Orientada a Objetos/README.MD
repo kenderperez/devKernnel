@@ -12,7 +12,7 @@ Por ejemplo al pensar en una espada como un objeto para ser programado diriamos 
 podria ser el filo el nombre el daño o el color, Además tiene una serie de funcionalidades o métodos asociados al mismo, como pueden ser cortar, o atacar.
 <p>En un esquema POO la espada sería el objeto, las propiedades serían las características como el filo o el daño y los métodos serían las funcionalidades asociadas como cortar o atacar.</p>
 <p>vamos a ver esto de manera practica para entenderlo mejor.. </p>
-<p align="center"><img width='600px' src='https://i.imgur.com/yb7s66g.png'></p>
+<p align="center"><img width='600px' src='https://i.imgur.com/zYo2yq4.png'></p>
 <h5><i>como vimos en la imagen de arriba el objeto espada contiene la propiedad daño con un valor de 9 y filo con un valor de 8, tambien se puede apreciar que las propiedades se separan unas de otras por medio de una coma ",".</i></h5>
 <br>
 <p>supongamos que tenemos un objeto
