@@ -75,6 +75,6 @@ y es que el objetivo de las clases es ayudar a reducir el codigo.
 cada vez que se ejecute la linea espadaVikinga.atacar(Kraken) se le restan 6 puntos 
 de vida al krakeny el filo de la espada vikinga disminuye 2 puntos y cuando
 el filo de la espada sea 0 o menos de 0 ya atacar() no causara daño alguno al kraken</p>
-
+<p align="center"><img src='https://i.imgur.com/YUIntBg.gif'></p>
 
 
