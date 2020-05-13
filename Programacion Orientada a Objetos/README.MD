@@ -24,7 +24,7 @@ para crear dicho objeto escribamos el siguiente codigo:</p>
 
 
 ```python
-Kraken = {
+kraken = {
           'nombre' = 'Kraken',
           'tipo' = 'marino',
           'vida' = 12,
@@ -53,13 +53,14 @@ class Espada:
         self.filo = filo
         
     def atacar(self, objetivo):
-        if self.filo > 0 and objetivo['vida'] > 0:
+        if self.filo > 0 and objetivo['vida'] > 0: #si la espada tiene filo suficiente y el objetivo esta vivo la espada atacara
+             #se le restaran los puntos de daño de la espada a la vida del objetivo y se le sumara la resistencia del objetivo
             objetivo['vida'] = objetivo['vida'] - self.daño + objetivo['resistencia']
-            self.filo = self.filo - 2
-        elif objetivo['vida'] <= 0:
+            self.filo = self.filo - 2 #Cada vez que la espada ataque perdera 2 puntos de filo
+        elif objetivo['vida'] <= 0: #si la vida del objetivo es igual o menor que cero
             print('El '+ objetivo['nombre'] + ' a muerto!')
         else:
-            print('La espada se a quedado sin filo!!')
+            print('La espada se a quedado sin filo!!') #si el filo de la espada llega a cero
 ```
 
 
