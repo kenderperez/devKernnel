@@ -34,6 +34,7 @@ Kraken = {
 ```
 
 
+<h1>Clases en POO</h1><br>
 <p>Una Clase es una plantilla para crear un nuevo objeto donde podemos definir que
 propiedades y metodos contendra un objeto .
 pensemos en las clases  como plantillas con las que podemos crear uno o varios objetos
