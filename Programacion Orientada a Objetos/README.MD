@@ -14,7 +14,7 @@ podria ser el filo el nombre el daño o el color, Además tiene una serie de fun
 <p>vamos a ver esto de manera practica para entenderlo mejor.. </p>
 <p align="center"><img width='600px' src='https://i.imgur.com/yb7s66g.png'></p>
 <br>
-<q>como vimos en la imagen de arriba el objeto espada contiene la propiedad daño con un valor de 9 y filo con un valor de 8, tambien se puede apreciar que las propiedades se separan unas de otras por medio de una coma " , ".</q>
+<code>como vimos en la imagen de arriba el objeto espada contiene la propiedad daño con un valor de 9 y filo con un valor de 8, tambien se puede apreciar que las propiedades se separan unas de otras por medio de una coma " , ".</code>
 <p>supongamos que tenemos un objeto
 llamado kraken el cual es un mounstruo marino, este objeto contendra propiedades como nombre, tipo,
 vida y resistencia y metodos como gruñir(), un metodo es una propiedad que contiene como valor una funcion
