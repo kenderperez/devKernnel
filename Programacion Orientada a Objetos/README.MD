@@ -10,8 +10,7 @@ es una forma de resolver problemas siguiendo una metodologia en particular en es
 Un objeto contiene propiedades que almacenan valores y metodos que le añaden funcionalidad.
 Por ejemplo al pensar en una espada como un objeto para ser programado diriamos que la espada contiene una serie de caracteristicas, como
 podria ser el filo el nombre el daño o el color, Además tiene una serie de funcionalidades o métodos asociados al mismo, como pueden ser cortar, o atacar.
-<p>En un esquema POO el coche sería el objeto, las propiedades serían las características como el color o el modelo y los métodos serían las funcionalidades asociadas como ponerse en marcha o parar.</p>
-
+<p>En un esquema POO la espada sería el objeto, las propiedades serían las características como el filo o el daño y los métodos serían las funcionalidades asociadas como cortar o atacar.</p>
 <p>vamos a ver esto de manera practica para entenderlo meojor.. </p>
 <p align="center"><img width='600px' src='https://i.imgur.com/yb7s66g.png'></p>
 <p>supongamos que tenemos un objeto
