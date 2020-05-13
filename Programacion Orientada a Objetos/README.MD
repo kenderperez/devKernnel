@@ -19,7 +19,7 @@ podria ser el filo el nombre el daño o el color, Además tiene una serie de fun
 llamado kraken 🦑 el cual es un mounstruo marino, este objeto contendra propiedades como nombre, tipo,
 vida y resistencia.
 para crear dicho objeto escribamos el siguiente codigo:</p>
-<p align="center"><img width='600px' src='https://i.imgur.com/eTdtwTP.png'></p>
+<p align="center"><img width='600px' src='https://i.imgur.com/5wDHeRU.png'></p>
 <h5><i>como vimos en la imagen anterior para acceder a una propiedad de un objeto se hace mediante el nombre del objeto seguido por el nombre de la propiedad entre corchetes [] ejemplo: Kraken['vida'] esto retornara 12</i></h5>
 
 
@@ -40,7 +40,7 @@ propiedades y metodos contendra un objeto .</p>
 que tendran mas o menos la misma estructura. en el siguiente ejemplo crearemos una plantilla para crear
 espadas las cuales contendran propiedades tales como nombre, rareza, daño, filo y un metodo
 llamado atacar() el cual restara vida a un objetivo dado:</p>
-<p align="center"><img width='600px' src='https://i.imgur.com/oydQAAn.png'></p>
+<p align="center"><img width='600px' src='https://i.imgur.com/zYo2yq4.png'></p>
 
 
 
