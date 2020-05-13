@@ -17,6 +17,12 @@ objeto.propiedad
 llamado kraken el cual es un mounstruo marino, este objeto contendra propiedades como nombre, tipo,
 vida y resistencia y metodos como gruñir(), un metodo es una propiedad que contiene como valor una funcion
 para crear dicho objeto escribamos el siguiente codigo:</p>
+
+```python
+objeto['propiedad']
+objeto.propiedad
+```
+
 <p align="center"><img width='600px' src='https://i.imgur.com/eTdtwTP.png'></p>
 <p>Una Clase es una plantilla para crear un nuevo objeto donde podemos definir que
 propiedades y metodos contendra un objeto .
