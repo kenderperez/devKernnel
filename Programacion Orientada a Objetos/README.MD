@@ -20,6 +20,7 @@ llamado kraken el cual es un mounstruo marino, este objeto contendra propiedades
 vida y resistencia y metodos como gruñir(), un metodo es una propiedad que contiene como valor una funcion
 para crear dicho objeto escribamos el siguiente codigo:</p>
 <p align="center"><img width='600px' src='https://i.imgur.com/eTdtwTP.png'></p>
+<h5><i>como vimos en la imagen anterior para acceder a una propiedad de un objeto se hace mediante el nombre del objeto seguido por el nombre de la propiedad entre corchetes [] ejemplo: Kraken['vida'] esto retornara 12</i></h5>
 
 
 ```python
@@ -36,8 +37,8 @@ Kraken = {
 
 <h1>Clases en POO</h1><br>
 <p>Una Clase es una plantilla para crear un nuevo objeto donde podemos definir que
-propiedades y metodos contendra un objeto .
-pensemos en las clases  como plantillas con las que podemos crear uno o varios objetos
+propiedades y metodos contendra un objeto .</p>
+<p>pensemos en las clases  como plantillas con las que podemos crear uno o varios objetos
 que tendran mas o menos la misma estructura. en el siguiente ejemplo crearemos una plantilla para crear
 espadas las cuales contendran propiedades tales como nombre, rareza, daño, filo y un metodo
 llamado atacar() el cual restara vida a un objetivo dado:</p>
