@@ -16,7 +16,7 @@ podria ser el filo el nombre el daño o el color, Además tiene una serie de fun
 <h5><i>como vimos en la imagen de arriba el objeto espada contiene la propiedad daño con un valor de 9 y filo con un valor de 8, tambien se puede apreciar que las propiedades se separan unas de otras por medio de una coma ",".</i></h5>
 <br>
 <p>supongamos que tenemos un objeto
-llamado kraken el cual es un mounstruo marino, este objeto contendra propiedades como nombre, tipo,
+llamado kraken 🦑 el cual es un mounstruo marino, este objeto contendra propiedades como nombre, tipo,
 vida y resistencia.
 para crear dicho objeto escribamos el siguiente codigo:</p>
 <p align="center"><img width='600px' src='https://i.imgur.com/eTdtwTP.png'></p>
