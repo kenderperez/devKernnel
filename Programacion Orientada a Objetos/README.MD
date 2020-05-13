@@ -47,13 +47,19 @@ llamado atacar() el cual restara vida a un objetivo dado:</p>
 
 
 ```python
-Kraken = {
-          'nombre' = 'Kraken',
-          'tipo' = 'marino',
-          'vida' = 12,
-          'resistencia' = 2.
-          'gruñir' = def():
-                          print('grrrr!')
+class Espada:
+    def __init__(self, nombre, rareza, daño, filo):
+        self.nombre = nombre
+        self.rareza = rareza
+        self.daño = daño
+        self.filo = filo
+        
+    def atacar(self, objetivo):
+        if self.filo > 0:
+            objetivo.vida -= self.daño + objetivo.resistencia
+            self.filo - 2
+        else:
+            print('La espada se a quedado sin filo!!')
          }
 ```
 
