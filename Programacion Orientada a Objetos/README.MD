@@ -25,10 +25,10 @@ para crear dicho objeto escribamos el siguiente codigo:</p>
 
 ```python
 kraken = {
-          'nombre' = 'Kraken',
-          'tipo' = 'marino',
-          'vida' = 12,
-          'resistencia' = 2
+          'nombre' : 'Kraken',
+          'tipo' : 'marino',
+          'vida' : 12,
+          'resistencia' : 2
          }
 ```
 
