@@ -42,8 +42,19 @@ propiedades y metodos contendra un objeto .</p>
 que tendran mas o menos la misma estructura. en el siguiente ejemplo crearemos una plantilla para crear
 espadas las cuales contendran propiedades tales como nombre, rareza, daño, filo y un metodo
 llamado atacar() el cual restara vida a un objetivo dado:</p>
-
 <p align="center"><img width='600px' src='https://i.imgur.com/oydQAAn.png'></p>
+```python
+Kraken = {
+          'nombre' = 'Kraken',
+          'tipo' = 'marino',
+          'vida' = 12,
+          'resistencia' = 2.
+          'gruñir' = def():
+                          print('grrrr!')
+         }
+```
+
+
 <p>Ahora Podremos crear tantas espadas como queramos!!! y definir su daño, filo ,nombre 
 y rareza asi que manos a la obra!
 A continuacion vamos a ver como crear objetos a partir de una clase:</p>
