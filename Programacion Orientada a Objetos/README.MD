@@ -20,6 +20,8 @@ llamado kraken el cual es un mounstruo marino, este objeto contendra propiedades
 vida y resistencia y metodos como gruñir(), un metodo es una propiedad que contiene como valor una funcion
 para crear dicho objeto escribamos el siguiente codigo:</p>
 <p align="center"><img width='600px' src='https://i.imgur.com/eTdtwTP.png'></p>
+
+
 ```python
 Kraken = {
           'nombre' = 'Kraken',
