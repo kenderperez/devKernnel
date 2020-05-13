@@ -21,8 +21,14 @@ vida y resistencia y metodos como gruñir(), un metodo es una propiedad que cont
 para crear dicho objeto escribamos el siguiente codigo:</p>
 
 ```python
-objeto['propiedad']
-objeto.propiedad
+Kraken = {
+          'nombre' = 'Kraken',
+          'tipo' = 'marino',
+          'vida' = 12,
+          'resistencia' = 2.
+          'gruñir' = def():
+                          print('grrrr!')
+         }
 ```
 
 <p align="center"><img width='600px' src='https://i.imgur.com/eTdtwTP.png'></p>
