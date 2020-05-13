@@ -24,6 +24,10 @@ pensemos en las clases  como plantillas con las que podemos crear uno o varios o
 que tendran mas o menos la misma estructura. en el siguiente ejemplo crearemos una plantilla para crear
 espadas las cuales contendran propiedades tales como nombre, rareza, daño, filo y un metodo
 llamado atacar() el cual restara vida a un objetivo dado:</p>
+
 <p align="center"><img width='600px' src='https://i.imgur.com/oydQAAn.png'></p>
+<p>Ahora Podremos crear tantas espadas como queramos!!! y definir su daño, filo ,nombre 
+y rareza asi que manos a la obra!
+A continuacion vamos a ver como crear objetos a partir de una clase:</p>
 
 
