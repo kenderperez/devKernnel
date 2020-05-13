@@ -23,6 +23,8 @@ para crear dicho objeto escribamos el siguiente codigo:</p>
 <h5 align="center"><i>como vimos en la imagen anterior para acceder a una propiedad de un objeto se hace mediante el nombre del objeto seguido por el nombre de la propiedad entre corchetes [] ejemplo: Kraken['vida'] esto retornara 12</i></h5>
 
 
+
+
 ```python
 kraken = {
           'nombre' : 'Kraken',
@@ -34,6 +36,7 @@ kraken = {
 
 
 <h1>Clases en POO</h1><br>
+<p>Ahora que ya sabemos crear un objeto de manera estática veamos como crearlo a partir de una plantilla o clase</p>
 <p>Una Clase es una plantilla para crear un nuevo objeto donde podemos definir que
 propiedades y metodos contendra un objeto .</p>
 <p>pensemos en las clases  como plantillas con las que podemos crear uno o varios objetos
