@@ -30,6 +30,13 @@ llamado atacar() el cual restara vida a un objetivo dado:</p>
 y rareza asi que manos a la obra!
 A continuacion vamos a ver como crear objetos a partir de una clase:</p>
 <p align="center"><img width='600px' src='https://i.imgur.com/8UkUbRu.png'></p>
+<p>en la imagen que acabamos de ver se instancian dos objetos de la
+clase Espada llamados espadaVikinga y espadaHeroica en otras palabras
+se crean dos objetos con la plantilla Espada, y tan solo usando dos lineas de codigo!!
+y es que el objetivo de las clases es ayudar a reducir el codigo.
+cada vez que se ejecute la linea espadaVikinga.atacar(Kraken) se le restan 6 puntos 
+de vida al krakeny el filo de la espada vikinga disminuye 2 puntos y cuando
+el filo de la espada sea 0 o menos de 0 ya atacar() no causara daño alguno al kraken</p>
 
 
 
