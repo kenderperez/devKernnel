@@ -13,8 +13,8 @@ podria ser el filo el nombre el daño o el color, Además tiene una serie de fun
 <p>En un esquema POO la espada sería el objeto, las propiedades serían las características como el filo o el daño y los métodos serían las funcionalidades asociadas como cortar o atacar.</p>
 <p>vamos a ver esto de manera practica para entenderlo mejor.. </p>
 <p align="center"><img width='600px' src='https://i.imgur.com/yb7s66g.png'></p>
-<br>
 <h5><i>como vimos en la imagen de arriba el objeto espada contiene la propiedad daño con un valor de 9 y filo con un valor de 8, tambien se puede apreciar que las propiedades se separan unas de otras por medio de una coma " , ".</i></h5>
+<br>
 <p>supongamos que tenemos un objeto
 llamado kraken el cual es un mounstruo marino, este objeto contendra propiedades como nombre, tipo,
 vida y resistencia y metodos como gruñir(), un metodo es una propiedad que contiene como valor una funcion
