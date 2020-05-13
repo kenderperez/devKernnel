@@ -67,7 +67,7 @@ class Espada:
 <p>Ahora Podremos crear tantas espadas como queramos!!! y definir su daño, filo ,nombre 
 y rareza asi que manos a la obra!<br>
 A continuacion vamos a ver como crear objetos a partir de una clase:</p>
-<p align="center"><img src='https://i.imgur.com/8UkUbRu.png'></p>
+<p align="center"><img src='https://i.imgur.com/wFSmLDt.png'></p>
 <p>en la imagen que acabamos de ver se instancian dos objetos de la
 clase Espada llamados espadaVikinga y espadaHeroica en otras palabras
 se crean dos objetos con la plantilla Espada, y tan solo usando dos lineas de codigo!!
