@@ -1,20 +1,17 @@
 <img src='https://i.imgur.com/gScS6Vz.png'>
-<h1 style='color: red'>Programacion Orientada a Objetos con Python</h1><br>
+<h1 style='color: red'>Programacion Orientada a Objetos (POO) con Python</h1><br>
 
 <p>La programacion orientada a objetos es un paradigma de programacion, En otras palabras
 es una forma de resolver problemas siguiendo una metodologia en particular en este caso es una forma especial de programar, más cercana a como expresaríamos las cosas en la vida real.
 </p>
 <p>tenemos que aprender a pensar las cosas de una manera distinta para poder escribir nuestros programas en términos de objetos, propiedades y métodos. La POO tiene como principio que todo en la vida es un objeto programable, entonces para empezar a programar con este paradigma tendríamos que empezar con desarrollar nuestro pensamiento basado en objetos.</p>
 
-<p>Un objeto contiene propiedades que almacenan valores y metodos que le añaden funcionalidad.
-las propiedades de los objetos se separan unas de otras mediante una coma ","
-para acceder a las propiedades de un objeto se hace mediante la siguiente sintaxys:
-</p>
+<p>Pensar en términos de objetos es pensar de manera natural como lo haríamos en la vida real. 
+Un objeto contiene propiedades que almacenan valores y metodos que le añaden funcionalidad.
+Por ejemplo al pensar en una espada como un objeto para ser programado diriamos que la espada contiene una serie de caracteristicas, como
+podria ser el filo el nombre el daño o el color, Además tiene una serie de funcionalidades o métodos asociados al mismo, como pueden ser cortar, o atacar.
+<p>En un esquema POO el coche sería el objeto, las propiedades serían las características como el color o el modelo y los métodos serían las funcionalidades asociadas como ponerse en marcha o parar.</p>
 
-```python
-objeto['propiedad']
-objeto.propiedad
-```
 <p>vamos a ver esto de manera practica para entenderlo meojor.. </p>
 <p align="center"><img width='600px' src='https://i.imgur.com/yb7s66g.png'></p>
 <p>supongamos que tenemos un objeto
