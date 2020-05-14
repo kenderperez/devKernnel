@@ -79,6 +79,7 @@ cada vez que se ejecute la linea espadaVikinga.atacar(kraken) se le restan 6 pun
 de vida al kraken y el filo de la espada vikinga disminuye 2 puntos, cuando
 el filo de la espada sea 0 o menos de 0 ya atacar() no causara daño alguno al kraken</p>
 <p align="center"><img src='https://i.imgur.com/YUIntBg.gif'></p>
+<h1>Donaciones!</h1>
 <noscript><a href="https://liberapay.com/devKernnel/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 <p align="center"><a href='https://twitter.com/devKernnel'>❤ si este pequeño tutorial te sirvio de algo sigueme en twitter, estaré creando contenido didáctico todas las semanas ❤</a></p>
