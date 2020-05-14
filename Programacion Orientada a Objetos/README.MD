@@ -38,7 +38,7 @@ kraken = {
 <h1>Clases en POO</h1><br>
 <p>Ahora que ya sabemos crear un objeto de manera estática veamos como crearlo a partir de una plantilla o clase</p>
 <p>Una Clase es una plantilla para crear un nuevo objeto donde podemos definir que
-propiedades y metodos contendra un objeto .</p>
+propiedades y metodos contendra el objeto .</p>
 <p>pensemos en las clases  como plantillas con las que podemos crear uno o varios objetos
 que tendran mas o menos la misma estructura. en el siguiente ejemplo crearemos una plantilla para crear
 espadas las cuales contendran propiedades tales como nombre, rareza, daño, filo y un metodo
@@ -68,15 +68,15 @@ class Espada:
 
 
 <p>Ahora Podremos crear tantas espadas como queramos!!! y definir su daño, filo ,nombre 
-y rareza asi que manos a la obra!<br>
+o rareza asi que manos a la obra!!!<br>
 A continuacion vamos a ver como crear objetos a partir de una clase:</p>
 <p align="center"><img src='https://i.imgur.com/wFSmLDt.png'></p>
 <p>en la imagen que acabamos de ver se instancian dos objetos de la
 clase Espada llamados espadaVikinga y espadaHeroica en otras palabras
 se crean dos objetos con la plantilla Espada, y tan solo usando dos lineas de codigo!!
 y es que el objetivo de las clases es ayudar a reducir el codigo.
-cada vez que se ejecute la linea espadaVikinga.atacar(Kraken) se le restan 6 puntos 
-de vida al krakeny el filo de la espada vikinga disminuye 2 puntos y cuando
+cada vez que se ejecute la linea espadaVikinga.atacar(kraken) se le restan 6 puntos 
+de vida al kraken y el filo de la espada vikinga disminuye 2 puntos, cuando
 el filo de la espada sea 0 o menos de 0 ya atacar() no causara daño alguno al kraken</p>
 <p align="center"><img src='https://i.imgur.com/YUIntBg.gif'></p>
 <p align="center"><a href='https://twitter.com/devKernnel'>❤ si este pequeño tutorial te sirvio de algo sigueme en twitter, estaré creando contenido didactico todas las semanas ❤</a></p>
