@@ -6,9 +6,9 @@ es una forma de resolver problemas siguiendo una metodologia en particular, en e
 </p>
 <p>Tenemos que aprender a pensar las cosas de una manera distinta para poder escribir nuestros programas en términos de objetos, propiedades y métodos; la POO tiene como principio que todo en la vida es un objeto programable, entonces para empezar a programar con este paradigma, tendríamos que empezar con desarrollar nuestro pensamiento basado en objetos.</p>
 
-<p><hr>Pensar en términos de objetos es pensar de manera natural como lo haríamos en la vida real. 
+<p><>Pensar en términos de objetos es pensar de manera natural como lo haríamos en la vida real. 
 Un objeto contiene propiedades que almacenan valores y metodos que le añaden funcionalidad.
-Por ejemplo al pensar en una espada como un objeto para ser programado diriamos que la espada contiene una serie de caracteristicas, como
+Por ejemplo: <br>al pensar en una espada como un objeto para ser programado diriamos que la espada contiene una serie de caracteristicas, como
 podria ser el filo el nombre el daño o el color, Además tiene una serie de funcionalidades o métodos asociados al mismo, como pueden ser cortar, o atacar.
 <p>En un esquema POO la espada sería el objeto, las propiedades serían las características como el filo o el daño y los métodos serían las funcionalidades asociadas como cortar o atacar.</p>
 <p>vamos a ver esto de manera practica para entenderlo mejor.. </p>
