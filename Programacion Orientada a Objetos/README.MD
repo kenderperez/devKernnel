@@ -1,12 +1,12 @@
 <img src='https://i.imgur.com/gScS6Vz.png'>
 <h1 style='color: red'>Programacion Orientada a Objetos (POO) con Python</h1><br>
 
-<p>La programacion orientada a objetos es un paradigma de programacion, En otras palabras
-es una forma de resolver problemas siguiendo una metodologia en particular en este caso es una forma especial de programar, más cercana a como expresaríamos las cosas en la vida real.
+<p>La programacion orientada a objetos es un paradigma de programacion, en otras palabras
+es una forma de resolver problemas siguiendo una metodologia en particular, en este caso es una forma especial de programar, más cercana a como expresaríamos las cosas en la vida real.
 </p>
-<p>tenemos que aprender a pensar las cosas de una manera distinta para poder escribir nuestros programas en términos de objetos, propiedades y métodos. La POO tiene como principio que todo en la vida es un objeto programable, entonces para empezar a programar con este paradigma tendríamos que empezar con desarrollar nuestro pensamiento basado en objetos.</p>
+<p>Tenemos que aprender a pensar las cosas de una manera distinta para poder escribir nuestros programas en términos de objetos, propiedades y métodos; la POO tiene como principio que todo en la vida es un objeto programable, entonces para empezar a programar con este paradigma, tendríamos que empezar con desarrollar nuestro pensamiento basado en objetos.</p>
 
-<p>Pensar en términos de objetos es pensar de manera natural como lo haríamos en la vida real. 
+<p><hr>Pensar en términos de objetos es pensar de manera natural como lo haríamos en la vida real. 
 Un objeto contiene propiedades que almacenan valores y metodos que le añaden funcionalidad.
 Por ejemplo al pensar en una espada como un objeto para ser programado diriamos que la espada contiene una serie de caracteristicas, como
 podria ser el filo el nombre el daño o el color, Además tiene una serie de funcionalidades o métodos asociados al mismo, como pueden ser cortar, o atacar.
