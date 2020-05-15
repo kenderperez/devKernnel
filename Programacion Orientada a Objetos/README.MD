@@ -117,6 +117,7 @@ Ya tenemos una plantilla para crear espadas básicas con los atributos: nombre, 
 
 
 
+<p>Como ya hemos venido haciendo vamos a ver esto de manera practica para entender mejor el concepto:</p>
 <details>
   <summary>👀 Haz click aquí para ver el codigo</summary>
 
