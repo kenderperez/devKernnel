@@ -142,7 +142,25 @@ class EspadaMarina(Espada):
 <p align="center"><img width='600px' src='https://i.imgur.com/WFOq2Qe.png'></p>
 <p align="center"><img width='950px' src='https://i.imgur.com/OX2o3kF.png'></p>
 
+<details>
+  <summary>👀 Haz click aquí para ver el codigo</summary>
 
+
+```python
+#creamos la espada pirata la cual contara con el nuevo ataque
+espadaPirata = EspadaMarina('Espada Pirata', 'rara', 10, 7) 
+
+#creamos la espada de Poseidon la cual contara con el nuevo ataque
+espadaDePoseidon = EspadaMarina('Espada de Poseidon', 'epica', 12, 10) 
+
+#ahora si estamos bien Armados, acabemos con el Kraken!!!
+
+espadaDePoseidon.ataqueTsunami(kraken)
+
+```
+ 
+
+</details>
 
 <hr>
 <h1>Quieres apoyarme?</h1>
