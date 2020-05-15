@@ -99,6 +99,36 @@ cada vez que se ejecute la linea espadaVikinga.atacar(kraken) se le restan 6 pun
 de vida al kraken y el filo de la espada vikinga disminuye 2 puntos, cuando
 el filo de la espada sea 0 o menos de 0 ya atacar() no causara daño alguno al kraken</p>
 <p align="center"><img src='https://i.imgur.com/YUIntBg.gif'></p>
+<h1>La herencia</h1>
+<p>
+es uno de los fundamentos de la programación orientada a objetos,  Se usa para hacer que una clase hija obtenga o herede todos los elementos (métodos y propiedades) de una clase padre, a partir de esta copia del padre podemos crear nuevos métodos y propiedades, así como mantener, modificar o eliminar los ya existentes que hemos heredado.
+</p>
+<p>
+Uno de los objetivos de la herencia es reducir la cantidad de código, ya que no tenemos que escribir una clase desde cero, si no que podemos reutilizar métodos o atributos definidos ya en otra clase.
+</p>
+<p>
+Ya tenemos una plantilla para crear espadas básicas con los atributos: nombre, rareza, daño y filo, así como un método para atacar a un objetivo, ahora supongamos que queremos crear un tipo especial de espadas que contenga un ataque especial para monstruos de tipo marino, para hacer esto solo tenemos que crear una clase que herede las propiedades y métodos de la clase Espada y luego añadirle la nueva funcionalidad “ataque tsunami”.
+</p>
+<details>
+  <summary>👀 Haz click aquí para ver el codigo</summary>
+
+
+```python
+class EspadaMarina(Espada):
+	
+	def ataqueTsunami(self, objetivo):
+		
+		if objetivo['tipo'] == 'marino':
+			
+            objetivo['vida'] = objetivo['vida'] - 10 + objetivo['resistencia']
+		else:
+			
+			print('este ataque solo funciona contra enemigos marinos!!')
+```
+ 
+
+</details>
+
 <hr>
 <h1>Quieres apoyarme?</h1>
 <noscript><a href="https://liberapay.com/devKernnel/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
