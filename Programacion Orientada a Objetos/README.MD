@@ -109,6 +109,8 @@ Uno de los objetivos de la herencia es reducir la cantidad de código, ya que no
 <p>
 Ya tenemos una plantilla para crear espadas básicas con los atributos: nombre, rareza, daño y filo, así como un método para atacar a un objetivo, ahora supongamos que queremos crear un tipo especial de espadas que contenga un ataque especial para monstruos de tipo marino, para hacer esto solo tenemos que crear una clase que herede las propiedades y métodos de la clase Espada y luego añadirle la nueva funcionalidad “ataque tsunami”.
 </p>
+<p align="center"><img src='https://i.imgur.com/tsGBabf.png'></p>
+
 <details>
   <summary>👀 Haz click aquí para ver el codigo</summary>
 
