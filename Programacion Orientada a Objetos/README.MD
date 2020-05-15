@@ -111,6 +111,12 @@ Ya tenemos una plantilla para crear espadas básicas con los atributos: nombre, 
 </p>
 <p align="center"><img src='https://i.imgur.com/tsGBabf.png'></p>
 
+
+
+> *la clase EspadaMarina hereda los atributos nombre, rareza, daño, filo y el método atacar() de la clase Espada y luego se le agregamos el nuevo método ataqueTsunami().
+
+
+
 <details>
   <summary>👀 Haz click aquí para ver el codigo</summary>
 
