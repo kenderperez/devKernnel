@@ -130,7 +130,7 @@ class EspadaMarina(Espada):
 		
 		if objetivo['tipo'] == 'marino':
 			
-            objetivo['vida'] = objetivo['vida'] - 10 + objetivo['resistencia']
+            		objetivo['vida'] = objetivo['vida'] - 10 + objetivo['resistencia']
 		else:
 			
 			print('este ataque solo funciona contra enemigos marinos!!')
@@ -140,7 +140,7 @@ class EspadaMarina(Espada):
 </details>
 <p>Ahora ya tenemos una clase nueva para crear espadas con un nuevo tipo de ataque que solo causa daño a enemigos de tipo marino, procedamos a crear dos espadas nuevas</p>
 <p align="center"><img width='600px' src='https://i.imgur.com/WFOq2Qe.png'></p>
-<p align="center"><img width='600px' src='https://i.imgur.com/OX2o3kF.png'></p>
+<p align="center"><img width='950px' src='https://i.imgur.com/OX2o3kF.png'></p>
 
 
 
