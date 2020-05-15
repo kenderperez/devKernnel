@@ -118,7 +118,7 @@ Ya tenemos una plantilla para crear espadas básicas con los atributos: nombre, 
 
 
 <p>Como ya hemos venido haciendo vamos a ver esto de manera practica para entender mejor el concepto:</p>
-<p align="center"><img width='900px' src='https://i.imgur.com/F6E9B49.png'></p>
+<p align="center"><img width='950px' src='https://i.imgur.com/F6E9B49.png'></p>
 <details>
   <summary>👀 Haz click aquí para ver el codigo</summary>
 
@@ -140,6 +140,8 @@ class EspadaMarina(Espada):
 </details>
 <p>Ahora ya tenemos una clase nueva para crear espadas con un nuevo tipo de ataque que solo causa daño a enemigos de tipo marino, procedamos a crear dos espadas nuevas</p>
 <p align="center"><img width='600px' src='https://i.imgur.com/WFOq2Qe.png'></p>
+<p align="center"><img width='600px' src='https://i.imgur.com/OX2o3kF.png'></p>
+
 
 
 <hr>
