@@ -59,6 +59,9 @@ llamado atacar() el cual restara vida a un objetivo dado:</p>
 <p align="center"><img width='600px' src='https://i.imgur.com/obI3vrP.png'></p>
 
 
+<details>
+  <summary>👀 Haz click aquí para ver el codigo</summary>
+
 
 ```python
 class Espada:
@@ -78,6 +81,10 @@ class Espada:
         else:
             print('La espada se a quedado sin filo!!') #si el filo de la espada llega a cero
 ```
+ 
+
+</details>
+
 
 
 <p>Ahora Podremos crear tantas espadas como queramos!!! y definir su daño, filo ,nombre 
