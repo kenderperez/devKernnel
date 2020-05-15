@@ -18,15 +18,19 @@ podria ser el filo, el nombre, el daño o el color; además tiene una serie de f
 > *como vimos en la imagen de arriba el objeto espada contiene la propiedad daño con un valor de 9 y filo con un valor de 8, tambien se puede apreciar que las propiedades se separan unas de otras por medio de una coma ",".
 
 
-
-<h5 align="center"><i</i></h5>
 <br>
 <p> Ahora supongamos que tenemos un objeto
 llamado kraken 🦑 el cual es un mounstruo marino, este objeto contendra propiedades como nombre, tipo,
 vida y resistencia.
 para crear dicho objeto escribamos el siguiente codigo:</p>
 <p align="center"><img width='600px' src='https://i.imgur.com/zYo2yq4.png'></p>
-<h5 align="center"><i>como vimos en la imagen anterior, para acceder a una propiedad de un objeto se hace mediante el nombre del objeto seguido por el nombre de la propiedad entre corchetes [] ejemplo: Kraken['vida'] esto retornara 12</i></h5>
+
+
+
+> *como vimos en la imagen anterior, para acceder a una propiedad de un objeto se hace mediante el nombre del objeto seguido por el nombre de la propiedad entre corchetes [] ejemplo: Kraken['vida'] esto retornara 12
+
+
+
 <details>
   <summary>👀 Haz click aquí para ver el codigo</summary>
 
