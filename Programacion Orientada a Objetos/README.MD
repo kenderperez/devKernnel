@@ -161,7 +161,7 @@ espadaDePoseidon.ataqueTsunami(kraken)
  
 
 </details>
-
+<p align="center">Si  quieres seguir aprendiendo programacion de una manera facil e intuitiva te recomiendo un videojuego para aprender a programar jugando: <a href='https://codecombat.com/'>Code Combat</a></p>
 <hr>
 <h1>Quieres apoyarme?</h1>
 <noscript><a href="https://liberapay.com/devKernnel/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
